@@ -2,6 +2,7 @@
 
 This Exploratory Data Analysis identified key factors associated with employee attrition, including department, age, overtime, job role, monthly income, job satisfaction, marital status, business travel, education field, gender, and work experience
 
+
 1. Executive Summary
    
 •	Analyzed the IBM HR Employee Attrition dataset using Python.
@@ -65,13 +66,18 @@ Tools Used:
 
 o	Python 
 
+
 o	Google Colab 
+
 
 o	Pandas 
 
+
 o	NumPy 
 
+
 o	Matplotlib 
+
 
 o	Seaborn 
 

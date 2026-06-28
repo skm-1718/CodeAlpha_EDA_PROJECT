@@ -17,7 +17,9 @@ This Exploratory Data Analysis identified key factors associated with employee a
 
 ________________________________________
 
+
 2. Introduction
+   
    
 •	Employee attrition is a significant challenge for organizations. 
 
@@ -29,7 +31,9 @@ ________________________________________
 
 ________________________________________
 
+
 3. Objectives
+
    
 •	Understand employee demographics.
 
@@ -56,7 +60,8 @@ ________________________________________
 •	Target Variable: Attrition 
 
 
-•	Tools Used: 
+Tools Used: 
+
 
 o	Python 
 
